@@ -1,5 +1,13 @@
+# data
 data/raw/*
 !data/raw/README.md
+
+# outputs
 outputs/
+
+# python noise
 __pycache__/
 .ipynb_checkpoints/
+
+# OS
+.DS_Store
